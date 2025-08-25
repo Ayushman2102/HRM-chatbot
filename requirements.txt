@@ -1,0 +1,8 @@
+langchain-google-genai
+langchain
+pypdf
+faiss-cpu
+langchain_community
+streamlit
+python-dotenv
+nest_asyncio
